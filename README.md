@@ -2,7 +2,7 @@
 
 
 <img src="https://github.com/fatmaadam-lab/Certificates-Sender/blob/main/image-1.jpg"/>
-<img src="https://github.com/fatmaadam-lab/speach-to-sign-language/blob/main/SingLang(video)/images/stsl-img2.jpg"/>
+<img src="https://github.com/fatmaadam-lab/Certificates-Sender/blob/main/image-2.jpg"/>
 <br>
   Key points (How this Script works:) <br><br>
   This Script build to send certificates by goting the Certificate template as Word Document <br>
