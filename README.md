@@ -14,7 +14,7 @@
 <ul>
 Required :  
   <li> Python 3x  </li>
-  <li> Python lib (xlrd , docs , email , smtplib, ssl) </li>
+  <li> Python lib (re , xlrd , docs , email , smtplib, ssl, datetime) </li>
 </ul>
 <hr>
 <ul>Note :
