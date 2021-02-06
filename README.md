@@ -18,7 +18,7 @@ Required :
 </ul>
 <hr>
 <ul>Note :
-      <br> before you gonna the program you have to :<br>
+      <br> before you gonna run the program you have to :<br>
   <li> make sure to replace the certificate-template.docs with your certificate template </li>
     <li> make sure to replace the trainer-data.xlsx with your data e-mails and names </li> 
     <li> in the send_certificate function that you replace the e-mail py your persnol email and your personal password </li>
